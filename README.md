@@ -13,3 +13,6 @@
 #### [08. 提升方法（Boosting）](https://github.com/sunxingyui5/Statistical-Learning-code-implementation-a-part-/blob/main/08.%20%E6%8F%90%E5%8D%87%E6%96%B9%E6%B3%95%EF%BC%88Boosting%EF%BC%89.ipynb)  
 #### [09. K均值聚类（k-means）](https://github.com/sunxingyui5/Statistical-Learning-code-implementation-a-part-/blob/main/09.%20K%E5%9D%87%E5%80%BC%E8%81%9A%E7%B1%BB%EF%BC%88k-means%EF%BC%89.ipynb)  
 #### [10.（补充）卷积神经网络识别MNIST](https://github.com/sunxingyui5/Statistical-Learning-code-implementation-a-part-/blob/main/10.%20%E5%8D%B7%E7%A7%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E8%AF%86%E5%88%ABMNIST.ipynb)  
+
+
+#### [sklearn datasets_to_df.py](https://github.com/sunxingyui5/Statistical-Learning-code-implementation-a-part-/blob/main/sklearn%20datasets_to_df.py)用于将sklearn datasets转换成dataframe格式
