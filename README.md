@@ -15,4 +15,4 @@
 #### [10.（补充）卷积神经网络识别MNIST](https://github.com/sunxingyui5/Statistical-Learning-code-implementation-a-part-/blob/main/10.%20%E5%8D%B7%E7%A7%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E8%AF%86%E5%88%ABMNIST.ipynb)  
 
 
-#### [sklearn datasets_to_df.py](https://github.com/sunxingyui5/Statistical-Learning-code-implementation-a-part-/blob/main/sklearn%20datasets_to_df.py)用于将sklearn datasets转换成dataframe格式
+#### 其中，[sklearn datasets_to_df.py](https://github.com/sunxingyui5/Statistical-Learning-code-implementation-a-part-/blob/main/sklearn%20datasets_to_df.py)用于将sklearn datasets转换成dataframe格式
