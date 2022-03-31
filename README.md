@@ -2,6 +2,8 @@
 ## 《统计学习方法》李航  第二版  
 #### 本项目对《统计学习方法》中，部分代码的复现，主要基于numpy和pandas实现，部分参考现有的开源项目
 
+![统计学习方法](https://github.com/sunxingyui5/Statistical-Learning-code-implementation-a-part-/blob/main/StatisticalLearning.jpg)
+
 
 #### [01. 感知机（Perceptron）](https://github.com/sunxingyui5/Statistical-Learning-code-implementation-a-part-/blob/main/01.%20%E6%84%9F%E7%9F%A5%E6%9C%BA%EF%BC%88Perceptron%EF%BC%89.ipynb) 
 #### [02. k近邻法（K- Nearest Neighbor）](https://github.com/sunxingyui5/Statistical-Learning-code-implementation-a-part-/blob/main/02.%20k%E8%BF%91%E9%82%BB%E6%B3%95%EF%BC%88K-%20Nearest%20Neighbor%EF%BC%89.ipynb) 
